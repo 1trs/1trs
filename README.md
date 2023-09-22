@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://metinvestholding.com/Content/Entities/NewsItem/207385/ru/banner.jpg" />
+<img src="banner.jpg" />
 <b>Rusty development</b>
 </p>
 <p align="center">&nbsp;</p>
