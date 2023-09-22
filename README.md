@@ -6,17 +6,17 @@
 
 # Hello 👋, and welcome to my GitHub profile!
 
-Hi! I'm **Tickster**, an old and **rusty** developer. I consider myself a *curious* and *self-directed* individual.  
+Hi! I'm **Trickster**, an old and **rusty** developer. I consider myself a *curious* and *self-directed* individual.  
 
 ## What's my development setup?
 
-- 💻 My laptop runs on **MacOS**, but sometimes it looks like **Ubuntu**.
-- 🛠️ Some of the tools I use are  **RusrRover**, **PyCharm**, and **VSCode** for IDE, and all kind of development.
-- 💬 For team communications, we mostly use **Slack** and **Google Meet**.
+- 💻 My laptop usually runs on **MacOS**, but sometimes it looks like **Ubuntu Server**.
+- 🛠️ Some of the tools I use are **RusrRover**, **PyCharm**, and **VSCode** for IDE, and all kind of development.
+- 💬 For team communications, I mostly use **communication apps**.
 - 🔀 For version control, I use **GitHub** or **GitLab** or **Git[placeholder]**.
 - 🐳 For containerization, I use **containers**. 
 - 🗃️ For databases, I mainly use **database**.
-- 💻 For all my tools developmnet, I use **programming language**.
+- 💻 For all my tools developmnet, I use some **programming language**.
 - 🚀 For ci/cd I use **CI/CD**.
 - ☁️ For production deployments I use **AWS**.
 
